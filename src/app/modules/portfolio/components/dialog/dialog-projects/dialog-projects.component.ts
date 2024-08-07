@@ -31,5 +31,5 @@ export class DialogProjectsComponent implements OnInit {
     this._dialogRef.close();
   }
 
-
+  public
 }
